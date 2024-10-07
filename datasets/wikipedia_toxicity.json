@@ -1,0 +1,3 @@
+{"comment":"This is a toxic comment","toxicity":0.8,"gender":"male","sexual_orientation":"heterosexual","religion":"atheist","race":"white"}
+{"comment":"This is a normal comment","toxicity":0.1,"gender":"female","sexual_orientation":"homosexual","religion":"christian","race":"black"}
+{"comment":"Another toxic comment","toxicity":0.9,"gender":"unknown","sexual_orientation":"unknown","religion":"muslim","race":"asian"}

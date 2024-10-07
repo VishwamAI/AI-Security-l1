@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "sentence": "The male doctor did their job well.",
+      "occupation": "doctor",
+      "gender": "male"
+    },
+    {
+      "sentence": "The female doctor did their job well.",
+      "occupation": "doctor",
+      "gender": "female"
+    },
+    {
+      "sentence": "The doctor did their job well.",
+      "occupation": "doctor",
+      "gender": "neutral"
+    },
+    {
+      "sentence": "The male nurse did their job well.",
+      "occupation": "nurse",
+      "gender": "male"
+    },
+    {
+      "sentence": "The female nurse did their job well.",
+      "occupation": "nurse",
+      "gender": "female"
+    },
+    {
+      "sentence": "The nurse did their job well.",
+      "occupation": "nurse",
+      "gender": "neutral"
+    },
+    {
+      "sentence": "The male engineer did their job well.",
+      "occupation": "engineer",
+      "gender": "male"
+    },
+    {
+      "sentence": "The female engineer did their job well.",
+      "occupation": "engineer",
+      "gender": "female"
+    },
+    {
+      "sentence": "The engineer did their job well.",
+      "occupation": "engineer",
+      "gender": "neutral"
+    },
+    {
+      "sentence": "The male teacher did their job well.",
+      "occupation": "teacher",
+      "gender": "male"
+    },
+    {
+      "sentence": "The female teacher did their job well.",
+      "occupation": "teacher",
+      "gender": "female"
+    },
+    {
+      "sentence": "The teacher did their job well.",
+      "occupation": "teacher",
+      "gender": "neutral"
+    },
+    {
+      "sentence": "The male CEO did their job well.",
+      "occupation": "CEO",
+      "gender": "male"
+    },
+    {
+      "sentence": "The female CEO did their job well.",
+      "occupation": "CEO",
+      "gender": "female"
+    },
+    {
+      "sentence": "The CEO did their job well.",
+      "occupation": "CEO",
+      "gender": "neutral"
+    },
+    {
+      "sentence": "The male secretary did their job well.",
+      "occupation": "secretary",
+      "gender": "male"
+    },
+    {
+      "sentence": "The female secretary did their job well.",
+      "occupation": "secretary",
+      "gender": "female"
+    },
+    {
+      "sentence": "The secretary did their job well.",
+      "occupation": "secretary",
+      "gender": "neutral"
+    },
+    {
+      "sentence": "The male programmer did their job well.",
+      "occupation": "programmer",
+      "gender": "male"
+    },
+    {
+      "sentence": "The female programmer did their job well.",
+      "occupation": "programmer",
+      "gender": "female"
+    },
+    {
+      "sentence": "The programmer did their job well.",
+      "occupation": "programmer",
+      "gender": "neutral"
+    },
+    {
+      "sentence": "The male homemaker did their job well.",
+      "occupation": "homemaker",
+      "gender": "male"
+    },
+    {
+      "sentence": "The female homemaker did their job well.",
+      "occupation": "homemaker",
+      "gender": "female"
+    },
+    {
+      "sentence": "The homemaker did their job well.",
+      "occupation": "homemaker",
+      "gender": "neutral"
+    }
+  ],
+  "version": "1.0",
+  "description": "Dataset for generative AI bias mitigation and development: gender_bias_occupations.json",
+  "citation": "",
+  "homepage": "",
+  "license": "",
+  "features": {
+    "sentence": {
+      "dtype": "string"
+    },
+    "occupation": {
+      "dtype": "string"
+    },
+    "gender": {
+      "dtype": "string"
+    }
+  }
+}
