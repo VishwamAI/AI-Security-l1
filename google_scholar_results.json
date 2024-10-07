@@ -1,0 +1,72 @@
+[
+  {
+    "title": "AI for Security and Security for AI",
+    "authors": "E Bertino, M Kantarcioglu, CG Akcora",
+    "year": "2021",
+    "citations": 65,
+    "url": "https://dl.acm.org/doi/abs/10.1145/3422337.3450357"
+  },
+  {
+    "title": "A comprehensive study on review of AI techniques to provide security in the digital world",
+    "authors": "S Terumalasetti, SR Reeja",
+    "year": "2022",
+    "citations": 10,
+    "url": "https://ieeexplore.ieee.org/abstract/document/9917931/"
+  },
+  {
+    "title": "Ai-driven cybersecurity: an overview, security intelligence modeling and research directions",
+    "authors": "IH Sarker, MH Furhad, R Nowrozy",
+    "year": "2021",
+    "citations": 419,
+    "url": "https://link.springer.com/article/10.1007/s42979-021-00557-0"
+  },
+  {
+    "title": "A comprehensive study of integrating AI-based security techniques on the internet of things",
+    "authors": "AE Ahmadi, O Abdoun, EK Haimoudi",
+    "year": "2022",
+    "citations": 1,
+    "url": "https://link.springer.com/chapter/10.1007/978-3-031-35251-5_34"
+  },
+  {
+    "title": "IoT security techniques based on machine learning: How do IoT devices use AI to enhance security?",
+    "authors": "L Xiao, X Wan, X Lu, Y Zhang",
+    "year": "2018",
+    "citations": 836,
+    "url": "https://ieeexplore.ieee.org/abstract/document/8454402/"
+  },
+  {
+    "title": "Advancing Network Security in Industrial IoT: A Deep Dive into AI-Enabled Intrusion Detection Systems",
+    "authors": "M Shahin, M Maghanaki, A Hosseinzadeh",
+    "year": "2024",
+    "citations": 10,
+    "url": "https://www.sciencedirect.com/science/article/pii/S1474034624003331"
+  },
+  {
+    "title": "Security and privacy for artificial intelligence: Opportunities and challenges",
+    "authors": "A Oseni, N Moustafa, H Janicke, P Liu, Z Tari",
+    "year": "2021",
+    "citations": 85,
+    "url": "https://arxiv.org/abs/2102.04661"
+  },
+  {
+    "title": "Crucial attacks in internet of things via artificial intelligence techniques: The security survey",
+    "authors": "S Thavamani, D Mahesh, U Sinthuja",
+    "year": "2022",
+    "citations": 13,
+    "url": "https://pubs.aip.org/aip/acp/article-abstract/2418/1/020029/2822117"
+  },
+  {
+    "title": "A review of artificial intelligence in security and privacy: Research advances, applications, opportunities, and challenges",
+    "authors": "YA Al-Khassawneh",
+    "year": "2023",
+    "citations": 28,
+    "url": "https://ejournal.kjpupi.id/index.php/ijost/article/view/9"
+  },
+  {
+    "title": "Cyber security meets artificial intelligence: a survey",
+    "authors": "J Li",
+    "year": "2018",
+    "citations": 309,
+    "url": "https://link.springer.com/article/10.1631/FITEE.1800573"
+  }
+]
